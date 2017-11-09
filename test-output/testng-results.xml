@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36176" started-at="2017-11-09T18:54:43Z" finished-at="2017-11-09T18:55:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36176" started-at="2017-11-09T18:54:43Z" finished-at="2017-11-09T18:55:19Z">
+      <class name="SeleniumCoding">
+        <test-method status="PASS" signature="webDriverCommands2()[pri:0, instance:SeleniumCoding@735b5592]" name="webDriverCommands2" duration-ms="36137" started-at="2017-11-09T13:54:43Z" finished-at="2017-11-09T13:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webDriverCommands2 -->
+      </class> <!-- SeleniumCoding -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
